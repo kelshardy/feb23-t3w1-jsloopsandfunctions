@@ -46,19 +46,34 @@ let pokemonTeam = [
 
 // for in:
 
+// let favouritePokemon = {
+//   name: "blastoise",
+//   type: "water",
+// }
 
+// for (let property in favouritePokemon){
+//   console.log(`${property} value in favouritePokemon is ${favouritePokemon[property]}`);
+
+  // favouritePokemon.property <-- won't work, no property declard in lines 49 - 52
+  // favouritePokemon.name <-- will work, name was declared in property
+// }
+
+// for of:
+// for (let property of Object.entries(favouritePokemon)) {
+//   console.log(`Property from for-of is: ${property}`)
+// }
 
 // while loop:
 
-while (false) {
-  console.log("while message appears at least once");
-}
+// while (false) {
+//   console.log("while message appears at least once");
+// }
 
 // do while loop:
 
-do {
-  console.log("do - while message appears at least once");
-} while (false);
+// do {
+//   console.log("do - while message appears at least once");
+// } while (false);
 
 /*
 
